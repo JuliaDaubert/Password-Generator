@@ -49,8 +49,8 @@ When on landing page (see screenshot) user will be prompted to choose from the f
 <li> Character type:
 
     Special characters 
-    Numeric charac
-    Lowercase charac
+    Numeric characters
+    Lowercase characters
     Uppercase characters
 
 </ul>
