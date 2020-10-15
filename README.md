@@ -7,6 +7,8 @@ Application that generates a random password based on user-selected criteria.
 * [Technologies](#Technologies)
 * [Screenshot](#Screenshot)
 * [Setup](#Setup)
+* [Deployed Project](#Deployed%20Project)
+
 
 
 
@@ -60,3 +62,5 @@ The application should validate user input and ensure that at least one characte
 Once all prompts are answered, the user will be presented with a password matching the answered prompts. 
 
 The password is displayed in an alert as well as written to the page instead.
+
+### Deployed Project
