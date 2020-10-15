@@ -64,3 +64,4 @@ Once all prompts are answered, the user will be presented with a password matchi
 The password is displayed in an alert as well as written to the page instead.
 
 ### Deployed Project
+https://juliadaubert.github.io/Password-Generator/
